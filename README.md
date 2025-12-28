@@ -4,7 +4,6 @@ This is a static tourism website created as part of the OEM Lab task.
 
 Technologies Used
 - HTML5
-- CSS3
 - Custom Fonts
 - GitHub Pages
 
