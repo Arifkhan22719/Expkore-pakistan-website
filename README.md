@@ -15,6 +15,8 @@ Features
 - Navigation bar
 
  Live Website
+wait for 1 minute to load images used for website  after clicking the link
+
 ([click here to view](https://arifkhan22719.github.io/Expkore-pakistan-website/))
 
  Author
